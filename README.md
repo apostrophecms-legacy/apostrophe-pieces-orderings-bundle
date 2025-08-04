@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 ![Snyk vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/apostrophe-pieces-orderings-bundle)
 [![CircleCI](https://circleci.com/gh/apostrophecms/apostrophe-pieces-orderings-bundle/tree/master.svg?style=svg)](https://circleci.com/gh/apostrophecms/apostrophe-pieces-orderings-bundle/tree/master)
 
